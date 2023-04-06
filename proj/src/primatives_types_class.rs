@@ -24,7 +24,7 @@ fn floats_() {
 fn booleans_() {
     // Padrão kk
     let x = true;
-    let y: bool = false;
+    let y = false;
 }
 
 fn char_() {
